@@ -30,8 +30,16 @@ Hey folks, here did for all Second Life Logo in vectors  as SVG. Feel free use i
 ```
 
 **Files:**
-- [Second Life LOGO - vector - text as curves 10.svg]()
-- Second Life LOGO White transparentBG.png []()
-- Second Life LOGO SLBlue 300dpi.png []()
-- Second Life LOGO SLGreen 300dpi.png []()
-- Second Life LOGO SLGreen-gradient 300dpi.png []()
+- [Second Life LOGO - vector - text as curves 10.svg](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20-%20vector%20-%20text%20as%20curves%2010.svg)
+![](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20-%20vector%20-%20text%20as%20curves%2010.svg)
+- [Second Life LOGO White transparentBG.png](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20transparent%20300dpi.png)
+![](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20transparent%20300dpi.png)
+
+- [Second Life LOGO SLBlue 300dpi.png](https://github.com/tirithcz/secondlife-logo-svg/raw/master/Second%20Life%20LOGO%20SLBlue%20300dpi.png) ![](https://github.com/tirithcz/secondlife-logo-svg/raw/master/Second%20Life%20LOGO%20SLBlue%20300dpi.png)
+ 
+- [Second Life LOGO SLGreen 300dpi.png](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20SLGreen%20300dpi.png)
+![Second Life LOGO SLGreen 300dpi.png](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20SLGreen%20300dpi.png)
+ 
+- [Second Life LOGO SLGreen-gradient 300dpi.png](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20SLGreen-gradient%20300dpi.png)
+![](https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20SLGreen-gradient%20300dpi.png)
+
